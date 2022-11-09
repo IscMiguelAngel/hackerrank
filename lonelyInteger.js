@@ -10,6 +10,6 @@ const lonelyInteger = (a) => {
 
 
 
-const arr = [1,1,2,0,0]
+// const arr = [1,1,2,0,0]
 
 console.log(lonelyInteger(arr))
